@@ -1,4 +1,3 @@
-
 # 🎮 My8Way - Jogo de Labirinto com Inimigos
 
 Projeto desenvolvido para a disciplina de **Jogos Digitais - 2025.1 (Insper)**.
@@ -36,12 +35,10 @@ Neste jogo 2D feito no Unity, o jogador deve coletar todos os triângulos enquan
 
 ---
 
-
-
 ## 🧾 Créditos
 
-- **Fontes**: Kenney.nl / Google Fonts
-- **Sons**: [Freesound.org](https://freesound.org/)
+- **Fontes**: Fontes padrão do Unity (TextMesh Pro)
+- **Sons**: pixabay.com
 - **Sprites**: Criados no próprio projeto ou de uso livre
 - **Engine**: [Unity](https://unity.com/)
 
